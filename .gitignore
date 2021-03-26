@@ -1,0 +1,13 @@
+*.so
+*.o
+*.d
+*.ko
+*.obj
+*.elf
+a.out
+*.dll
+tmp/
+*.exe
+*.out
+*.so.*
+*.dylib
