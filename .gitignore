@@ -12,3 +12,4 @@ tmp/
 *.out
 *.so.*
 *.dylib
+.DS_Store
