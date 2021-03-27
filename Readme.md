@@ -1,5 +1,6 @@
 <div align="center">
     <img src="./resource/klivi.png">
 </div>
-    
-<h2>Powerful Graphic, Memory, Tool, io, Networklibrary</h2>
+<cite>klivi</cite>
+<hr/>    
+<h2>Powerful Graphic, Memory, Tool, io, Network library</h2>
