@@ -1,7 +1,7 @@
 # Klivi
 <hr/>
 <div align="center">
-    <img src="./res/logo.png">
+    <img src="./resource/logo.png">
 </div>
     
-<h2>Powerful python graphic, memory, tool engine</h2>
+<h2>Powerful Graphic, Memory, Tool, io, Networklibrary</h2>
